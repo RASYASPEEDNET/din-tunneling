@@ -1,5 +1,5 @@
 #!/bin/bash
-SCRIPT_URL="https://raw.githubusercontent.com/yourrepo/script-tunnel/main/script-tunnel.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/RASYASPEEDNET/din-tunneling/main/script-tunnel.sh"
 INSTALL_PATH="/usr/local/bin/script-tunnel.sh"
 BANNER_FILE="/etc/issue.net"
 
