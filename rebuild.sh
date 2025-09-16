@@ -9,6 +9,6 @@ if [[ "$jawab" != "y" ]]; then
 fi
 
 rm -f $INSTALL_PATH
-bash <(curl -s https://raw.githubusercontent.com/yourrepo/script-tunnel/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/RASYASPEEDNET/din-tunneling/main/install.sh)
 
 echo "✅ Rebuild selesai. Jalankan ulang: script-tunnel.sh"
